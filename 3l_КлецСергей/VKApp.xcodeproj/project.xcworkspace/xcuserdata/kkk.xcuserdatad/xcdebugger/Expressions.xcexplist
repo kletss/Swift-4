@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FrendsViewController.numberOfSections(in:):FrendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vkFriends">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkService.getCollectionImages(user_ID:):NetworkService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "__pthread_kill:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "AllGroupsTableViewController.init(coder:):AllGroupsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isFiltering">
+            </PersistentString>
+            <PersistentString
+               value = "!isSearchBarEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkService.getListGroups():NetworkService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in VKLoginController.webView(_:decidePolicyFor:decisionHandler:):VKLoginController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendViewControllerImages.swipedLR(_:):FrendViewControllerImages.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recognizer.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendViewControllerImages.onPan(_:):FrendViewControllerImages.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendCollectionViewController.collectionView(_:cellForItemAt:):FrendCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vkPhotos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkService.getPhotos(user_ID:):NetworkService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FrendCollectionViewController.collectionView(_:numberOfItemsInSection:):FrendCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frendIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkService.getListFriends(user_ID:):NetworkService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FrendsViewController.sectionIndexTitles(for:):FrendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lettersSection.map{ &quot;\($0)&quot; }">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AllGroupsTableViewController.tableView(_:numberOfRowsInSection:):AllGroupsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isSearchBarEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendsViewController.init(coder:):FrendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vkFriends">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LikeController.updateSelectedLike():LikeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "likeCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendsTableViewController.tableView(_:cellForRowAt:):FrendsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FrendsCell">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendCollectionViewController.prepare(for:sender:):FrendCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PopAnimation1.animateTransition(using:):AnimatorWin.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animateTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FrendsTableViewController.viewDidLoad():FrendsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sectionLetter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in FrendsTableViewController.viewDidLoad():FrendsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frends">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrendsViewController.viewDidLoad():FrendsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vkFriends">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LikeController.selectLike(_:):LikeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "likeCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
